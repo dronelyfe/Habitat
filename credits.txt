@@ -1,0 +1,19 @@
+Dependencies:
+
+Minim – created by Damien Quartz, licensed under the LGPL 3.0
+http://code.compartmental.net/tools/minim/
+http://www.gnu.org/licenses/lgpl-3.0-standalone.html
+
+ControlP5 – created by Andreas Schlegel, licensed under the LGPL
+http://www.sojamo.de/libraries/controlP5/
+http://www.gnu.org/licenses/lgpl.html
+
+The MidiBus – created by Severin Smith, licensed under the LGPL 3.0
+http://www.smallbutdigital.com/projects/themidibus/
+https://github.com/sparks/themidibus/blob/master/LGPL3-LICENSE.txt
+
+Credit goes out to:
+
+Euclidean Rhythm code adapted from Wouter Hisschemoller, licensed under the GPL
+https://github.com/hisschemoller/Euclidean-Pattern-Generator/blob/master/src/com/hisschemoller/epg/util/BjorklundGenerator.java
+http://www.gnu.org/licenses/gpl.html
